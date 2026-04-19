@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 50 records |
 | Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-08T01:50:03.776871+00:00 |
+| Last export | 2026-04-15T07:21:23.945000+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-massachusetts-us-sample-308456/releases/download/sample-latest/beamstation_308456_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
