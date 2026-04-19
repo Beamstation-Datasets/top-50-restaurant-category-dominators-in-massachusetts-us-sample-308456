@@ -6,7 +6,7 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Massachusetts, US",
-  "export_job_id": "e827a5f6-d7ce-4a03-8331-dfdbe2252f42",
+  "export_job_id": "8b4a36b0-21f4-452e-8d62-d38f8d232eba",
   "github_org": "Beamstation-Datasets",
   "id_short": 308456,
   "location_name": "Massachusetts",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/308456/beamstation_308456_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
   "sample_records": 5,
-  "sample_sha256": "f0b12b276a66ea8747b251e64ba16d2021298d0c365862178868d77a2f7f0328",
-  "sample_size_bytes": 37199,
+  "sample_sha256": "cd89a3728345eaad2000685352cb048994beddacba0614bf9052a37b8dcfc315",
+  "sample_size_bytes": 37863,
   "total_records": 50,
-  "updated_at": "2026-04-08T01:50:03.776871+00:00"
+  "updated_at": "2026-04-15T07:21:23.945000+00:00"
 }
