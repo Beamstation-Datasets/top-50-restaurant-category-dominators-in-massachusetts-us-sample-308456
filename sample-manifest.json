@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e827a5f6-d7ce-4a03-8331-dfdbe2252f42",
+  "export_job_id": "8b4a36b0-21f4-452e-8d62-d38f8d232eba",
   "id_short": 308456,
-  "published_at": "2026-04-11T07:24:13Z",
+  "published_at": "2026-04-19T07:48:50Z",
   "repo_name": "top-50-restaurant-category-dominators-in-massachusetts-us-sample-308456",
   "sample_asset_name": "beamstation_308456_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/308456/beamstation_308456_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_records": 5,
-  "sample_sha256": "f0b12b276a66ea8747b251e64ba16d2021298d0c365862178868d77a2f7f0328",
-  "sample_size_bytes": 37199,
+  "sample_sha256": "cd89a3728345eaad2000685352cb048994beddacba0614bf9052a37b8dcfc315",
+  "sample_size_bytes": 37863,
   "total_records": 50
 }
